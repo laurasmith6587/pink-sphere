@@ -1,0 +1,11 @@
+Model Information:
+* title:	5 Jack-O-Lanterns (Baked Textures)
+* source:	https://sketchfab.com/3d-models/5-jack-o-lanterns-baked-textures-59861f56ab1b4e2ba3cc85d919ac49f4
+* author:	Lyricull (https://sketchfab.com/asalotl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "5 Jack-O-Lanterns (Baked Textures)" (https://sketchfab.com/3d-models/5-jack-o-lanterns-baked-textures-59861f56ab1b4e2ba3cc85d919ac49f4) by Lyricull (https://sketchfab.com/asalotl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

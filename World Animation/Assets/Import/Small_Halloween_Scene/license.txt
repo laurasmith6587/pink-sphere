@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Halloween Scene
+* source:	https://sketchfab.com/3d-models/small-halloween-scene-f9752c2187b04982b65468d4160e0dff
+* author:	Yaseen Ali (https://sketchfab.com/DrScrub)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Halloween Scene" (https://sketchfab.com/3d-models/small-halloween-scene-f9752c2187b04982b65468d4160e0dff) by Yaseen Ali (https://sketchfab.com/DrScrub) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -13,13 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - PostProcessing
+  - Weapon
+  - Target
+  - Projectile
+  - Player
+  - PlayerCollisionOnly
+  - NavMesh
   - 
   - 
   - 

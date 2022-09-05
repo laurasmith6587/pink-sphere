@@ -1,0 +1,11 @@
+Model Information:
+* title:	Underwater Venus, Unterwilen, Lake Lucerne
+* source:	https://sketchfab.com/3d-models/underwater-venus-unterwilen-lake-lucerne-88df3d741dc3416083ea019b13cd55f7
+* author:	archaeobotics (https://sketchfab.com/archaeobotics)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Underwater Venus, Unterwilen, Lake Lucerne" (https://sketchfab.com/3d-models/underwater-venus-unterwilen-lake-lucerne-88df3d741dc3416083ea019b13cd55f7) by archaeobotics (https://sketchfab.com/archaeobotics) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

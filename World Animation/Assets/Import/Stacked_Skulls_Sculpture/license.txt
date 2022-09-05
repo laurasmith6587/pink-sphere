@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stacked Skulls Sculpture
+* source:	https://sketchfab.com/3d-models/stacked-skulls-sculpture-df415cff815141e48c7a4c6b427e7143
+* author:	Megalith3D (https://sketchfab.com/Megalith.Dreidee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stacked Skulls Sculpture" (https://sketchfab.com/3d-models/stacked-skulls-sculpture-df415cff815141e48c7a4c6b427e7143) by Megalith3D (https://sketchfab.com/Megalith.Dreidee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
